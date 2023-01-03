@@ -5,6 +5,6 @@
 
 ---
 
-inspired by: [yt]
+inspired by: [Youtube][yt]
 
-[yt][https://www.youtube.com/watch?v=-bll7l-BKQI]
+[yt]: https://www.youtube.com/watch?v=-bll7l-BKQI
